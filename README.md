@@ -1,3 +1,5 @@
+![Alt text](preview.png?raw=true "Title")
+
 # Sector Farnham's Legend
 Save compatibility: Yes
 
