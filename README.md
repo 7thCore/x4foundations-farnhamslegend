@@ -10,19 +10,19 @@ The sector has it's own gate to gate highway and is connected to the ring highwa
 
 # Resources in sub-sectors:
 
-## Farnham's Legend V:
+### Farnham's Legend V:
 - Helium
 - Ice
 - Ore
 - Nvidium
 
-## Farnham's Legend VII:
+### Farnham's Legend VII:
 - Methane
 - Ice
 - Silicon
 - Raw Scrap
 
-## Farnham's Legend IX:
+### Farnham's Legend IX:
 - Hydrogen
 - Ice
 - Ore
@@ -30,15 +30,15 @@ The sector has it's own gate to gate highway and is connected to the ring highwa
 
 # Stations in sub-sectors:
 
-## Farnham's Legend V:
+### Farnham's Legend V:
 - Alliance of the Word Wharf
 
-## Farnham's Legend VII:
+### Farnham's Legend VII:
 - Hatikvah Free League Port
 
-## Farnham's Legend IX:
+### Farnham's Legend IX:
 - Scale Plate Pact Pirate Base
 
-Compatibility patches:
+# Compatibility patches:
 
 X Universe + by J.L.
