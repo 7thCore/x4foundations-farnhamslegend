@@ -20,7 +20,6 @@ This is the legacy version that has all resources available in all sectors.
 - Ore
 - Silicon
 - Nvidium
-- Raw Scrap
 
 ### Farnham's Legend VII:
 - Helium

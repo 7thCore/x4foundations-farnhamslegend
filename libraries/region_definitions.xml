@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <regions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="region_definitions.xsd">
 
-  <region name="region_mod_farnham_legend_sector001_resource_field" density="1" rotation="0">
+  <region name="region_mod_farnham_legend_sector001_resource_field" density="0.70" rotation="0">
     <boundary class="cylinder">
       <size r="1000000" linear="7500" />
     </boundary>
@@ -57,7 +57,7 @@
     </resources>
   </region>
 
-  <region name="region_mod_farnham_legend_sector002_resource_field" density="1" rotation="0">
+  <region name="region_mod_farnham_legend_sector002_resource_field" density="0.70" rotation="0">
     <boundary class="cylinder">
       <size r="1000000" linear="7500" />
     </boundary>
@@ -113,7 +113,7 @@
     </resources>
   </region>
 
-  <region name="region_mod_farnham_legend_sector003_resource_field" density="1" rotation="0">
+  <region name="region_mod_farnham_legend_sector003_resource_field" density="0.70" rotation="0">
     <boundary class="cylinder">
       <size r="1000000" linear="7500" />
     </boundary>
