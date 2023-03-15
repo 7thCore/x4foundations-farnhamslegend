@@ -1,44 +1,10 @@
 ![Alt text](preview.png?raw=true "Title")
 
-# Sector Farnham's Legend
+# Sector Farnham's Legend Relocation Patch Beta
 Save compatibility: Yes
 
 # What does it do:
-This mod adds a new sector between Hatikvah's Choice and Silent Witness.
+This patch moves the sector Farnham's Legend to a new location to make the mod compatible with other mods. It also removes the Windfall Gate and changes the highway connection route to not have them go through multiple sectors in the map overview. Connections are now between Pious Mists II and Pontifex's Claim. The Gate connection between Hatikvah's Choice I and Silent Witness I is restored.
 
-The sector has it's own gate to gate highway and is connected to the ring highway through the gates of Hatikvah's Choice and Silent Witness. There is also a gate connection to Windfall III The Hoard, located in the south portion of the sector Farnham's Legend V. The resource fields are below the gates, highways and stations to not interfere with them. The sector has faction logic disabled, so you can take it over and build your own stations in it freely.
-
-# Resources in sub-sectors:
-
-### Farnham's Legend V:
-- Helium
-- Ice
-- Ore
-- Nvidium
-
-### Farnham's Legend VII:
-- Methane
-- Ice
-- Silicon
-- Raw Scrap
-
-### Farnham's Legend IX:
-- Hydrogen
-- Ice
-- Ore
-- Raw Scrap
-
-# Stations in sub-sectors:
-
-### Farnham's Legend V:
-- Alliance of the Word Wharf
-
-### Farnham's Legend VII:
-- Hatikvah Free League Port
-
-### Farnham's Legend IX:
-- Scale Plate Pact Pirate Base
-
-# Compatibility patches:
-
-[X Universe + by J.L.](https://steamcommunity.com/sharedfiles/filedetails/?id=2936923201)
+# WARNING:
+Only use one relocation patch. The Relocation patches have special scripts built in them to detect each other. If multiple patches are enabled you will get a warning on screen and after twenty seconds a Game Over sign. This is to prevent conflicts between the patches.

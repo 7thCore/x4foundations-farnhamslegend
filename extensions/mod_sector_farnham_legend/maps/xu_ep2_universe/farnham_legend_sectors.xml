@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<diff>
+  <!--Remove the Gate Zone for Windfall III The Hoard Gate-->
+  <remove sel="/macros/macro[@name='Cluster_Mod_FarnhamLegend_01_Sector001_macro']/connections/connection[@name='Zone006_Cluster_Mod_FarnhamLegend_01_Sector001_connection']" />
+</diff>
