@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<diff>
+  <!--Remove Highway connections from Farnham's Legend V zones-->
+  <remove sel="//macros/macro[@name='Zone002_Cluster_Mod_FarnhamLegend_01_Sector001_macro']/connections/connection[@name='Highway02Connection02_gate']"/>
+  <remove sel="//macros/macro[@name='Zone002_Cluster_Mod_FarnhamLegend_01_Sector001_macro']/connections/connection[@name='Highway01Connection01_gate']"/>
+
+  <remove sel="//macros/macro[@name='Zone003_Cluster_Mod_FarnhamLegend_01_Sector001_macro']/connections/connection[@name='Highway02Connection01_gate']"/>
+  <remove sel="//macros/macro[@name='Zone003_Cluster_Mod_FarnhamLegend_01_Sector001_macro']/connections/connection[@name='Highway01Connection02_gate']"/>
+</diff>
