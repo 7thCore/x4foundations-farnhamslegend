@@ -1,6 +1,6 @@
 ![Alt text](preview.png?raw=true "Title")
 
-# Sector Farnham's Legend Relocation Patch Beta
+# Sector Farnham's Legend Old Save compatibility
 Save compatibility: Yes
 
 # What does it do:
